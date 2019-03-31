@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\AzureLogging.dll.config
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\AzureLogging.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\AzureLogging.pdb
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\bin\Release\Newtonsoft.Json.xml
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\obj\Release\AzureLogging.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\obj\Release\AzureLogging.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\obj\Release\AzureLogging.csproj.CopyComplete
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\obj\Release\AzureLogging.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureLogging\obj\Release\AzureLogging.pdb

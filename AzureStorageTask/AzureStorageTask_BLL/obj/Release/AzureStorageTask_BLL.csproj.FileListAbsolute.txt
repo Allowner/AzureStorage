@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\AzureStorageTask_BLL.dll.config
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\AzureStorageTask_BLL.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\AzureStorageTask_BLL.pdb
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Microsoft.WindowsAzure.Storage.xml
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\bin\Release\Newtonsoft.Json.xml
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\obj\Release\AzureStorageTask_BLL.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\obj\Release\AzureStorageTask_BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\obj\Release\AzureStorageTask_BLL.csproj.CopyComplete
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\obj\Release\AzureStorageTask_BLL.dll
+C:\Users\asus\source\repos\AzureStorageTask\AzureStorageTask_BLL\obj\Release\AzureStorageTask_BLL.pdb
